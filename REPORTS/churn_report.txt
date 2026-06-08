@@ -1,0 +1,15 @@
+TELCO CUSTOMER CHURN ANALYSIS REPORT
+==================================================
+
+Total Customers: 7032
+Active Customers: 5163
+Churned Customers: 1869
+Churn Rate: 26.58%
+
+Contract-wise Churn Analysis
+
+Churn             No   Yes
+Contract                  
+Month-to-month  2220  1655
+One year        1306   166
+Two year        1637    48
